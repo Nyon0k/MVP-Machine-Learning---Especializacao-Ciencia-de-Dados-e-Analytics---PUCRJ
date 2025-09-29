@@ -16,7 +16,11 @@ O objetivo principal foi construir um **modelo de Probabilidade de Default (PD)*
   - Treinamento, avaliação e comparação dos fluxos de modelagem.  
 
 - **fluxograma_processo_modelagem.png**  
-  Diagrama ilustrando, de forma visual, a lógica e o fluxo do processo de modelagem implementado no notebook.
+  Diagrama ilustrando, de forma visual, a lógica e o fluxo do processo de modelagem implementado no notebook.  
+
+- **Versão no Google Colab**  
+  O mesmo código presente no notebook também está disponível no Colab para execução direta (Fique atento ao ponto de estouro de memória descrito no início do notebook):  
+  [Abrir no Google Colab](https://drive.google.com/file/d/1SeKBVCDJHBv8B5faD0FGRbrTSgcTdptd/view?usp=sharing)
 
 ---
 
