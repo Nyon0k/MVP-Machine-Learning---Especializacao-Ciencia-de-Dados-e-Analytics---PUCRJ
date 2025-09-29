@@ -20,7 +20,7 @@ O objetivo principal foi construir um **modelo de Probabilidade de Default (PD)*
 
 - **Versão no Google Colab**  
   O mesmo código presente no notebook também está disponível no Colab para execução direta (fique atento ao ponto de estouro de memória descrito no início do notebook):  
-  [Abrir no Google Colab]([https://drive.google.com/file/d/1SeKBVCDJHBv8B5faD0FGRbrTSgcTdptd/view?usp=sharing](https://drive.google.com/file/d/1SeKBVCDJHBv8B5faD0FGRbrTSgcTdptd/view?usp=sharing))
+  [Abrir no Google Colab](https://colab.research.google.com/drive/1SeKBVCDJHBv8B5faD0FGRbrTSgcTdptd#scrollTo=rSb-YEQV0CVR)
 
 - **Modelos finais treinados**  
   Os modelos resultantes do treinamento também estão salvos no repositório:  
