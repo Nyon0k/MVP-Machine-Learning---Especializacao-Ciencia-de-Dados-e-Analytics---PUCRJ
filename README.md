@@ -19,8 +19,13 @@ O objetivo principal foi construir um **modelo de Probabilidade de Default (PD)*
   Diagrama ilustrando, de forma visual, a lógica e o fluxo do processo de modelagem implementado no notebook.  
 
 - **Versão no Google Colab**  
-  O mesmo código presente no notebook também está disponível no Colab para execução direta (Fique atento ao ponto de estouro de memória descrito no início do notebook):  
+  O mesmo código presente no notebook também está disponível no Colab para execução direta (fique atento ao ponto de estouro de memória descrito no início do notebook):  
   [Abrir no Google Colab](https://drive.google.com/file/d/1SeKBVCDJHBv8B5faD0FGRbrTSgcTdptd/view?usp=sharing)
+
+- **Modelos finais treinados**  
+  Os modelos resultantes do treinamento também estão salvos no repositório:  
+  - `gb_final_sem_fte.joblib` → modelo referente ao **Fluxo A** (pré-processamento simples).  
+  - `gb_final_com_fte.joblib` → modelo referente ao **Fluxo B** (processamento robusto com *binning*).  
 
 ---
 
